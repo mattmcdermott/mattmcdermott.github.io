@@ -203,9 +203,9 @@ jekyll-archives:
 scholar:
 
   last_name: McDermott
-  first_name: [Matthew, J.]
+  first_name: [M, Matthew, Matthew J]
 
-  style: american-chemical-society
+  style: aps
   locale: en
 
   source: /_bibliography/
