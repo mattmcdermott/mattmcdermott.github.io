@@ -1,12 +1,11 @@
 ---
 layout: page
-title: submenus
-nav: true
+title: links
+nav: false
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
+    - title: LBL
+      permalink: perssongroup.lbl.gov
     - title: projects
       permalink: /projects/
 ---
