@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Materials Science & Engineering at UC Berkeley
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic-modified-min.png
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
