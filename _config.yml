@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Feel free to contact me via email.
+  Feel free to contact me via email!
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -82,8 +82,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: mattmcdermott # your blog must have a name for it to show up in the nav bar
-blog_description: 
+blog_name: Matt McDermott's Blog # your blog must have a name for it to show up in the nav bar
+blog_description: Various articles covering materials science, data science, and more.
 permalink: /blog/:year/:title/
 
 # Pagination
