@@ -82,7 +82,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: blog # your blog must have a name for it to show up in the nav bar
-blog_description: Various articles covering materials science, data science, and more.
+blog_description: # none
 permalink: /blog/:year/:title/
 
 # Pagination
