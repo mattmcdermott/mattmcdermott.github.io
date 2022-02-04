@@ -1,6 +1,3 @@
-# mattmcdermott.github.io (an al-folio site)
+This is the repository which supports my personal website: [mattmcdermott.me](mattmcdermott.me)
 
-This project uses al-folio: a simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
-If you like the theme, give it a star on the main repository!
-
-## [Al-folio](https://github.com/alshedivat/al-folio)
+This site is powered by [al-folio](https://github.com/alshedivat/al-folio). If you like the theme, give it a star on the main repository!
