@@ -20,8 +20,9 @@ Engineering from the University of California, Berkeley (May 2023). I am origina
 Austin, TX, where I attended the University of Texas, at Austin and graduated with a B.S.
 Mechanical Engineering (w/Highest Honors).
 
-My research focuses on developing predictive materials synthesis. I am particularly
-interested in developing algorithms to optimize how we make inorganic materials!
+I research and develop algorithms for predicting and optimizing synthesis of inorganic
+materials. I am particularly interested in accelerating the synthesis of novel materials
+and making conventional materials synthesis recipes more efficient (quicker, cheaper, etc.).
 
 You can catch me playing drums in a Berkeley-based indie rock band
 called [Casachanclas](https://casachanclas.bandcamp.com/). I also love to hike; I
