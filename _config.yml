@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Matthew
 middle_name: J.
-last_name: McDermott
+last_name: McDermott, PhD
 email: mcdermott@lbl.gov
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Matt McDermott's personal website.
